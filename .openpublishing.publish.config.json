@@ -66,7 +66,7 @@
   "need_generate_pdf_url_template": false,
   "targets": {},
   "docs_build_engine": {
-    "name": "docfx_v3"
+    "name": "docfx_v2"
   },
   "need_generate_pdf": false,
   "need_generate_intellisense": false,
